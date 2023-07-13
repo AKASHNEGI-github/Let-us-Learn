@@ -1,0 +1,62 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    line-height: 2em;
+}
+
+.div-front
+{
+   padding: 13% 8%;
+    background-image: url(images/IMG_20230610_105251\ \(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#section-3
+{
+    margin: 5% 8%;
+}
+
+.div-sec-4
+{
+    background-color: rgb(255, 104, 210);
+    text-align: center;
+    height: 350px;
+    margin: 5% auto;
+    padding-top: 6%;
+    color: white;
+    line-height: 3em;
+}
+
+#section-5
+{
+    text-align: center;
+    margin: 3% 3%;
+    padding: 3% 4%;
+}
+
+
+
+#sec-6-div
+{
+    background-color: rgb(223, 219, 255);
+    padding: 5% 8% ;
+    
+}
+
+#section-7
+{
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 4%;
+}
+
+.akashnegi
+{
+    text-decoration: underline;
+}
